@@ -14,7 +14,7 @@ This is an ongoing research. What you can see here is what i have so far. I'll b
 
 ### Contributions
 
-Contributions are more than welcome. If you think something can be done better, you notice another drawback, you notice another benefit or simply you want to drop a line to make it better, please create an issue in [the Github repo](https://github.com/fmvilas/hermes/issues).
+Contributions are more than welcome. If you think something can be done better, you notice another drawback, you notice another benefit or simply you want to drop a line to make it better, please [create an issue](https://github.com/fmvilas/hermes/issues) in this Github repo.
 
 ### License
 
