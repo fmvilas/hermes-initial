@@ -3,14 +3,13 @@
 
 This is an ongoing research. What you can see here is what i have so far. I'll be publishing here new investigations about it.
 
-[![](img/slides_capture.jpg)](./hermes.key)
+![](img/slides_capture.jpg)
 
 ### Downloads
 
 * Presentation
-	- [Apple Keynote (.key) format](./hermes.key)
-	- [MS PowerPoint (.pptx) format](./hermes.pptx)
-	- [Open Document Presentation (.odp) format](./hermes.odp)
+	- [Apple Keynote (.key) format](./presentations/hermes.key)
+	- [HTML format](./presentations/html/)
 
 ### Contributions
 
