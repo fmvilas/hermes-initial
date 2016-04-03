@@ -1,0 +1,56 @@
+default:
+  api:
+    port: 8080
+    log_http_requests: true
+
+  logger:
+    name: Iris
+    level: debug
+    levels:
+      trace:
+      debug: STDOUT
+      info:
+      warn:
+      error: STDERR
+      fatal:
+
+  server:
+    host: 192.168.100.100
+    port: 8080
+    secure: false
+
+  mongo:
+    url: localhost/iris
+
+  jwt:
+    secret: asd9ASD128F3ASDfF7saf5Alk23rf-987
+
+development:
+
+staging:
+  api:
+    port: 8080
+    log_http_requests: false
+
+  server:
+    host: localhost
+    port: 8080
+    secure: false
+
+  mongo:
+    url: mongodb://iris:iris@ds039195.mongolab.com:39195/heroku_zq7n2dm5
+
+  jwt:
+    secret: asd9ASD128F3ASDfF7saf5Alk23rf-987
+
+  logger:
+    level: info
+    levels:
+      trace:
+      debug:
+      info: ./log/info.log
+      warn: ./log/warn.log
+      error: ./log/error.log
+      fatal: ./log/fatal.log
+
+production:
